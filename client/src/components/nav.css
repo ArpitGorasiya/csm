@@ -1,0 +1,57 @@
+
+
+.active {
+    color: #00305b;
+}
+
+.bt {
+    background-color: #00305b;
+}
+
+.btnn {
+    background-color: #00305b;
+    color: white;
+}
+
+.btnn:hover {
+    background-color: #00305b;
+    color: white;
+}
+
+label {
+    font-weight: 600;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+.not {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgb(68, 68, 68);
+    min-height: 80vh;
+}
+
+.not h2 {
+    font-size: 55px;
+    font-weight: 800;
+}
+
+.not p {
+    font-size: 22px;
+}
+
+.active {
+    background-color: #83bdf0;  
+}
+
+.nav-link {
+    color: #00305b;
+}
